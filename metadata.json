@@ -1,0 +1,7 @@
+{
+  "name": "Chaos Catering",
+  "description": "High-performance restaurant menu costing and daily prep system. Powered by AI to turn PDF menus into profitable kitchen operations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
